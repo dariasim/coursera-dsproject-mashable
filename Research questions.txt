@@ -1,0 +1,8 @@
+1.	What are the unobservable factors that can be used to describe the articles’ content and simplify the future research by reducing the data dimensionality?
+2.	What clusters of articles exist based on the information obtained during the factor analysis?
+3.	Is there any correspondence between the cluster to which article belong and its popularity?
+4.	Is there any correspondence between the topic of the article and day of the week it is published?
+5.	Is there any correspondence between the topic of the article and its popularity?
+6.	Is there any correspondence between the day of the week article published and its popularity?
+7.	Is there any correspondence between the day of the week the article is published and its popularity for each topic?
+8.	Is there any correspondence between the availability of the visual content in the article (like images and videos) and popularity of the article for each topic?
